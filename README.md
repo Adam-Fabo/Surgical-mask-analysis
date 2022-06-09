@@ -1,10 +1,10 @@
-# Projekt na signály a systémy
+# Surgical mask analysis
 
-Cieľ projektu: Zistiť vplyv rúšky na reč
+Goal of the project: see how surgical mask affects voice.
 
-Pre viac viz [zadanie](ISS_zadanie.pdf)
+For more see [assignment](ISS_zadanie.pdf) (czech language)
 
-Vysledok:
+Result:
 ![alt-text](iss_charakteristika.png)
 
-Pre podrobnejší výsledok viz [dokumentáciu](ISS_dokumentacia.pdf)
+For results see [documentation](ISS_dokumentacia.pdf) (slovak language).
