@@ -1,0 +1,1 @@
+pre korektne spustenie programov musia byt programy ulozene v jednom adresari spolu s zlozkou audio, tak aby sa dalo k nahravkam pristupovat audio/some_tone.wav
